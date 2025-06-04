@@ -1,4 +1,4 @@
-👋 Hi, I’m Aman Sunesh, a sophomore majoring in Computer Engineering at NYU Abu Dhabi.
+👋 Hi, I’m Aman Sunesh, a junior majoring in Computer Engineering at NYU Abu Dhabi.
 
 
 🧠 I’m passionate about data analysis, machine learning, quantum computing, and innovative software solutions.
