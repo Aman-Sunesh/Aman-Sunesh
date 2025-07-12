@@ -3,7 +3,7 @@
 
 🧠 I’m passionate about data analysis, machine learning, quantum computing, and innovative software solutions.
 
-🔧 I’m currently honing my skills in Python, C++, web development, computer vision and quantum technologies.
+🔧 I’m currently honing my skills in deep learning, computer vision and quantum technologies.
 
 🤝 I’m looking to collaborate on projects involving AI/ML, computer vision, data science or quantum computing.
 
