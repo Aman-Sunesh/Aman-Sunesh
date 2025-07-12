@@ -49,7 +49,7 @@ Reach me via [LinkedIn](https://www.linkedin.com/in/aman-sunesh/) or email at as
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Sunesh&layout=compact&theme=dark&hide_border=true&langs_count=10)
 
 ### 📈 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aman_sunesh&theme=github-compact&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aman-Sunesh&theme=github-compact&hide_border=true)
 
 
 ### 🏆 GitHub Trophies
@@ -58,4 +58,4 @@ Reach me via [LinkedIn](https://www.linkedin.com/in/aman-sunesh/) or email at as
 ![Profile Views](https://komarev.com/ghpvc/?username=Aman-Sunesh&color=0e75b6&style=flat)
 
 ### 🕒 WakaTime Coding Stats
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=aman-sunesh&range=weekly&layout=compact&theme=dark)
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=aman_sunesh&range=weekly&layout=compact&theme=dark)
