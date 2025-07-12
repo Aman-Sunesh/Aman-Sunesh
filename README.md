@@ -47,14 +47,15 @@ Reach me via [LinkedIn](https://www.linkedin.com/in/aman-sunesh/) or email at as
   <a href="https://github.com/Aman-Sunesh/CycleGAN-for-Cultural-Style-Transfer-Translating-Bandhani-Textile-Motifs-to-Contemporary-Style">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aman-Sunesh&repo=CycleGAN-for-Cultural-Style-Transfer-Translating-Bandhani-Textile-Motifs-to-Contemporary-Style&theme=dark" alt="CycleGAN for Cultural Style Transfer" />
   </a>
-  <a href="https://github.com/Aman-Sunesh/CycleGAN-for-Cultural-Style-Transfer-Translating-Bandhani-Textile-Motifs-to-Contemporary-Style">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aman-Sunesh&repo=CycleGAN-for-Cultural-Style-Transfer-Translating-Bandhani-Textile-Motifs-to-Contemporary-Style&theme=dark" alt="CycleGAN for Cultural Style Transfer (variant)" />
-  </a>
   <a href="https://github.com/Aman-Sunesh/QuPyT-GUI-for-Quantum-Sensing-Experiments">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aman-Sunesh&repo=QuPyT-GUI-for-Quantum-Sensing-Experiments&theme=dark" alt="QuPyT GUI for Quantum Sensing Experiments" />
   </a>
   <a href="https://github.com/Aman-Sunesh/eCampusExplorer-NYUAD-Virtual-Campus-Tour">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aman-Sunesh&repo=eCampusExplorer-NYUAD-Virtual-Campus-Tour&theme=dark" alt="eCampusExplorer NYUAD Virtual Campus Tour" />
+  </a>
+<a href="https://github.com/Aman-Sunesh/Time-Series-Forecasting-Forecasting-the-Lorenz-System-with-Fully-Connected-Feedforward-Networks">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aman-Sunesh&repo=Time-Series-Forecasting-Forecasting-the-Lorenz-System-with-Fully-Connected-Feedforward-Networks&theme=dark" alt="Time-Series-Forecasting-Forecasting-the-Lorenz-System-with-Fully-Connected-Feedforward-Networks" />
+</a>
   </a>
 </p>
 
