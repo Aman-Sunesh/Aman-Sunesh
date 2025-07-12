@@ -1,12 +1,12 @@
- Hi, I’m Aman Sunesh, a junior majoring in Computer Engineering at NYU Abu Dhabi.
+# Hi, I’m Aman Sunesh 👋
 
- I’m passionate about data analysis, machine learning, quantum computing, and innovative software solutions.
+I’m a junior majoring in Computer Engineering at NYU Abu Dhabi.  
+I’m passionate about data analysis, machine learning, quantum computing, and innovative software solutions.  
+Currently honing my skills in deep learning, computer vision, and quantum technologies.  
+Looking to collaborate on AI/ML, computer vision, data science or quantum computing projects.  
+Reach me via [LinkedIn](https://www.linkedin.com/in/aman-sunesh/) or email at as18181@nyu.edu.
 
- I’m currently honing my skills in deep learning, computer vision and quantum technologies.
-
- I’m looking to collaborate on projects involving AI/ML, computer vision, data science or quantum computing.
-
- Reach me at LinkedIn or via email at as18181@nyu.edu.
+---
 
 ## Tools I use
 <p align="left">
@@ -27,7 +27,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="40" alt="Seaborn"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" alt="TensorFlow"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" alt="PyTorch"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qiskit/qiskit-original.svg" width="40" alt="Qiskit"/>
 
   <!-- Tools/IDEs -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VSCode"/>
@@ -38,36 +37,26 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" alt="Arduino"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" alt="Unity"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cadence/cadence-original.svg" width="40" alt="Cadence"/>
 
   <!-- Others -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux"/>
 </p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aman-Sunesh&theme=dark&hide_border=true)
 
 ### 📊 My GitHub Stats
-![Aman’s GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME
-  &show_icons=true
-  &count_private=true
-  &include_all_commits=true
-  &theme=dark
-  &hide_border=true
-  &show_rank=true)  
+![Aman’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Aman-Sunesh&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true&show_rank=true)
 
 ### 💻 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME
-  &layout=compact
-  &theme=dark
-  &hide_border=true
-  &langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Sunesh&layout=compact&theme=dark&hide_border=true&langs_count=10)
 
 ### 📈 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aman-Sunesh&theme=github-compact&hide_border=true)
 
 ### 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&column=7)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Aman-Sunesh&theme=dark&no-frame=true&column=7)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=Aman-Sunesh&color=0e75b6&style=flat)
 
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=89e72bc5-9228-45b6-b185-3b7399b90177&range=weekly&layout=compact&theme=dark)
+### 🕒 WakaTime Coding Stats
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=aman-sunesh&range=weekly&layout=compact&theme=dark)
