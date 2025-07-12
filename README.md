@@ -48,6 +48,10 @@ Reach me via [LinkedIn](https://www.linkedin.com/in/aman-sunesh/) or email at as
 ### 💻 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Sunesh&layout=compact&theme=dark&hide_border=true&langs_count=10)
 
+### 📈 Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aman-Sunesh&theme=github-compact&hide_border=true)
+
+
 ### 🏆 GitHub Trophies
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Aman-Sunesh&theme=dark&no-frame=true&column=7)
 
