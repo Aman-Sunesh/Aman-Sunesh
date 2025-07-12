@@ -56,9 +56,3 @@ Reach me via [LinkedIn](https://www.linkedin.com/in/aman-sunesh/) or email at as
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Aman-Sunesh&theme=dark&no-frame=true&column=7)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Aman-Sunesh&color=0e75b6&style=flat)
-
-### 🕒 WakaTime Coding Stats
-<!--
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=aman_sunesh&range=weekly&layout=compact&theme=dark)
--->
-*Enable “Display coding activity publicly” in your [WakaTime settings](https://wakatime.com/settings/profile) to show this.*
