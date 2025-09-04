@@ -1,4 +1,4 @@
-<h1 align="center">Aman Sunesh — Computer Engineering @ NYU Abu Dhabi</h1>
+<h1 align="center">Aman Sunesh — Computer Engineering @ NYUAD</h1>
 
 <p align="center">
   <a href="https://github.com/Aman-Sunesh">GitHub</a> ·
