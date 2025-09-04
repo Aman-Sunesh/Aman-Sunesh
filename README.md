@@ -4,6 +4,7 @@
   <a href="https://github.com/Aman-Sunesh">GitHub</a> ·
   <a href="https://www.linkedin.com/in/aman-sunesh/">LinkedIn</a> ·
   <a href="https://aman-sunesh.github.io/">Website</a> ·
+  <a href="https://www.youtube.com/@AmanSunesh">YouTube</a> ·
   <a href="mailto:as18181@nyu.edu">Email</a>
 </p>
 
