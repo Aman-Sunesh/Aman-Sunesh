@@ -71,7 +71,7 @@ Reach me via [LinkedIn](https://www.linkedin.com/in/aman-sunesh/) or email at as
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="40" alt="Netlify"/>
 </p>
 
-<p align="center">
+<p>
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=Aman-Sunesh&theme=dark&hide_border=true" 
     alt="GitHub Streak — Aman Sunesh"
