@@ -1,18 +1,23 @@
-<h1 align="center">Aman Sunesh — Computer Engineering @ NYUAD</h1>
+<h1 align="center">Aman Sunesh | GitHub Profile — Computer Engineering @ NYUAD</h1>
 
 <p align="center">
-  <a href="https://github.com/Aman-Sunesh">GitHub</a> ·
+  <a href="https://github.com/Aman-Sunesh">Aman Sunesh GitHub</a> ·
   <a href="https://www.linkedin.com/in/aman-sunesh/">LinkedIn</a> ·
   <a href="https://aman-sunesh.github.io/">Website</a> ·
   <a href="https://www.youtube.com/@AmanSunesh">YouTube</a>
 </p>
 
-I’m a junior majoring in Computer Engineering at NYU Abu Dhabi.  
-I’m passionate about data analysis, machine learning, quantum computing, and innovative software solutions.  
-Currently honing my skills in deep learning, computer vision, and quantum technologies.  
-Looking to collaborate on AI/ML, computer vision, data science or quantum computing projects.  
-Reach me via [LinkedIn](https://www.linkedin.com/in/aman-sunesh/) or email at as18181@nyu.edu.
++ **Official GitHub of Aman Sunesh** — junior in Computer Engineering at NYU Abu Dhabi (NYUAD).
++ This README is the primary landing page for <a href="https://github.com/Aman-Sunesh">Aman Sunesh GitHub</a>.
 
++ ## Search-Friendly Summary
++ - **Name:** Aman Sunesh  
++ - **Handle:** <a href="https://github.com/Aman-Sunesh">Aman-Sunesh</a>  
++ - **Focus:** Machine Learning, Quantum Sensing (NV-center), Computer Vision, PK/PD modeling  
++ - **Profiles:** <a href="https://github.com/Aman-Sunesh">Aman Sunesh GitHub</a> • 
++   <a href="https://aman-sunesh.github.io/">Portfolio</a> • 
++   <a href="https://www.linkedin.com/in/aman-sunesh/">LinkedIn</a> • 
++   <a href="https://www.kaggle.com/amansunesh">Kaggle</a>
 ---
 
 ## Tools I use
@@ -103,3 +108,10 @@ Reach me via [LinkedIn](https://www.linkedin.com/in/aman-sunesh/) or email at as
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Aman-Sunesh&theme=dark&no-frame=true&column=7)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Aman-Sunesh&color=0e75b6&style=flat)
+
+
+---
+## Quick Links (for indexing)
+- Primary profile: <a href="https://github.com/Aman-Sunesh">Aman Sunesh GitHub (official)</a>  
+- Portfolio: <a href="https://aman-sunesh.github.io/">aman-sunesh.github.io</a>  
+- Contact: <a href="mailto:as18181@nyu.edu">as18181@nyu.edu</a>
