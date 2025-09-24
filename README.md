@@ -1,4 +1,4 @@
-<h1 align="center">Aman Sunesh — Computer Engineering & Applied Math @ NYUAD</h1>
+<h2 align="center">Aman Sunesh — Computer Engineering & Applied Math @ NYUAD</h2>
 
 <p align="center">
   <a href="https://github.com/Aman-Sunesh">GitHub</a> ·
