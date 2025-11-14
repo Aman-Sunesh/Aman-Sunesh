@@ -90,8 +90,8 @@
   </a>
 </p>
 
-### 📊 My GitHub Stats 
-![Aman’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Aman-Sunesh&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true&show_rank=true)
+<!-- ### 📊 My GitHub Stats -->
+<!-- ![Aman’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Aman-Sunesh&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true&show_rank=true) -->
 
 ### 💻 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Sunesh&layout=compact&theme=dark&hide_border=true&langs_count=10)
