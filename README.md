@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://github.com/Aman-Sunesh">GitHub</a> ·
   <a href="https://www.linkedin.com/in/aman-sunesh/">LinkedIn</a> ·
-  <a href="https://aman-sunesh.github.io/">Website</a> ·
+  <a href="https://aman-sunesh.github.io/">Website</a>
 </p>
 
 **Official GitHub of Aman Sunesh** — junior in Computer Engineering at NYU Abu Dhabi (NYUAD).
