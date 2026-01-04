@@ -66,42 +66,41 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40" alt="Keras"/>
 </p>
 
-<p>
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Aman-Sunesh&theme=dark&hide_border=true" 
-    alt="GitHub Streak — Aman Sunesh"
-  />
-</p>
 
 ## Featured Projects
 <p>
+  <a href="https://github.com/Aman-Sunesh/Modeling-Information-Blackouts-in-MNAR-Time-Series">
+    <img src="https://github-readme-stats-ten-delta-40.vercel.app/api/pin/?username=Aman-Sunesh&repo=Modeling-Information-Blackouts-in-MNAR-Time-Series&theme=dark&v=1" alt="Modeling Information Blackouts in MNAR Time Series" />
+  </a>
   <a href="https://github.com/Aman-Sunesh/CycleGAN-for-Cultural-Style-Transfer-Translating-Bandhani-Textile-Motifs-to-Contemporary-Style">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aman-Sunesh&repo=CycleGAN-for-Cultural-Style-Transfer-Translating-Bandhani-Textile-Motifs-to-Contemporary-Style&theme=dark" alt="CycleGAN for Cultural Style Transfer" />
+    <img src="https://github-readme-stats-ten-delta-40.vercel.app/api/pin/?username=Aman-Sunesh&repo=CycleGAN-for-Cultural-Style-Transfer-Translating-Bandhani-Textile-Motifs-to-Contemporary-Style&theme=dark&v=1" alt="CycleGAN for Cultural Style Transfer" />
+  </a>
+  <a href="https://github.com/Aman-Sunesh/Airline-Ticket-Reservation-System-Using-MySQL-and-Flask">
+    <img src="https://github-readme-stats-ten-delta-40.vercel.app/api/pin/?username=Aman-Sunesh&repo=Airline-Ticket-Reservation-System-Using-MySQL-and-Flask&theme=dark&v=1" alt="Airline Ticket Reservation System Using MySQL and Flask" />
+  </a>
+  <a href="https://github.com/Aman-Sunesh/EV-PK-Simulator">
+    <img src="https://github-readme-stats-ten-delta-40.vercel.app/api/pin/?username=Aman-Sunesh&repo=EV-PK-Simulator&theme=dark&v=1" alt="EV PK Simulator" />
   </a>
   <a href="https://github.com/Aman-Sunesh/QuPyT-GUI-for-Quantum-Sensing-Experiments">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aman-Sunesh&repo=QuPyT-GUI-for-Quantum-Sensing-Experiments&theme=dark" alt="QuPyT GUI for Quantum Sensing Experiments" />
+    <img src="https://github-readme-stats-ten-delta-40.vercel.app/api/pin/?username=Aman-Sunesh&repo=QuPyT-GUI-for-Quantum-Sensing-Experiments&theme=dark&v=1" alt="QuPyT GUI for Quantum Sensing Experiments" />
   </a>
   <a href="https://github.com/Aman-Sunesh/eCampusExplorer-NYUAD-Virtual-Campus-Tour">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aman-Sunesh&repo=eCampusExplorer-NYUAD-Virtual-Campus-Tour&theme=dark" alt="eCampusExplorer NYUAD Virtual Campus Tour" />
-  </a>
-<a href="https://github.com/Aman-Sunesh/Time-Series-Forecasting-Forecasting-the-Lorenz-System-with-Fully-Connected-Feedforward-Networks">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aman-Sunesh&repo=Time-Series-Forecasting-Forecasting-the-Lorenz-System-with-Fully-Connected-Feedforward-Networks&theme=dark" alt="Time-Series-Forecasting-Forecasting-the-Lorenz-System-with-Fully-Connected-Feedforward-Networks" />
-</a>
+    <img src="https://github-readme-stats-ten-delta-40.vercel.app/api/pin/?username=Aman-Sunesh&repo=eCampusExplorer-NYUAD-Virtual-Campus-Tour&theme=dark&v=1" alt="eCampusExplorer NYUAD Virtual Campus Tour" />
   </a>
 </p>
 
  ### 📊 My GitHub Stats 
- ![Aman’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Aman-Sunesh&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true&show_rank=true) 
+![Aman’s GitHub stats](https://github-readme-stats-ten-delta-40.vercel.app/api?username=Aman-Sunesh&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true&show_rank=true&v=1) 
 
 ### 💻 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Sunesh&layout=compact&theme=dark&hide_border=true&langs_count=10&hide=jupyter%20notebook,C)
+![Top Langs](https://github-readme-stats-ten-delta-40.vercel.app/api/top-langs/?username=Aman-Sunesh&layout=compact&theme=dark&hide_border=true&langs_count=10&hide=jupyter%20notebook,C&v=1)
 
 ### 📈 Contribution Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aman-Sunesh&theme=github-compact&hide_border=true)
 
-
 ### 🏆 GitHub Trophies
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Aman-Sunesh&theme=dark&no-frame=true&column=7)
+![GitHub Trophy](https://github-profile-trophy-inky.vercel.app/?username=Aman-Sunesh&theme=dark&no-frame=true&column=7&v=1)
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Aman-Sunesh&color=0e75b6&style=flat)
 
