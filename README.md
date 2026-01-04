@@ -4,7 +4,6 @@
   <a href="https://github.com/Aman-Sunesh">GitHub</a> ·
   <a href="https://www.linkedin.com/in/aman-sunesh/">LinkedIn</a> ·
   <a href="https://aman-sunesh.github.io/">Website</a> ·
-  <a href="https://www.youtube.com/@AmanSunesh">YouTube</a>
 </p>
 
 **Official GitHub of Aman Sunesh** — junior in Computer Engineering at NYU Abu Dhabi (NYUAD).
@@ -12,7 +11,7 @@
 - I’m passionate about data analysis, machine learning, quantum computing, and innovative software solutions.  
 - Currently honing my skills in deep learning, computer vision, and quantum technologies.  
 - Looking to collaborate on AI/ML, computer vision, data science or quantum computing projects.  
-- Reach me via [LinkedIn](https://www.linkedin.com/in/aman-sunesh/) or email at as18181@nyu.edu.
+- Reach me via email at as18181@nyu.edu.
 
 ---
 
