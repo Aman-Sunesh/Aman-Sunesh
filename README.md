@@ -15,6 +15,15 @@
 
 ---
 
+## Publications & Preprints
+
+### Modeling Information Blackouts in Missing Not-At-Random Time Series
+- **arXiv:** https://arxiv.org/abs/2601.01480  (DOI: https://doi.org/10.48550/arXiv.2601.01480)
+- **Zenodo:** https://doi.org/10.5281/zenodo.18146528  (v1: https://doi.org/10.5281/zenodo.18146529)
+- **engrXiv:** https://doi.org/10.31224/6180
+
+---
+
 ## Tools I use
 <p align="left">
   <!-- Languages -->
