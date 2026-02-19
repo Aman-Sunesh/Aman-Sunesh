@@ -75,31 +75,7 @@
 </p>
 
 
-## Featured Projects
-<p>
-  <a href="https://github.com/Aman-Sunesh/Modeling-Information-Blackouts-in-MNAR-Time-Series">
-    <img src="https://github-readme-stats-ten-delta-40.vercel.app/api/pin/?username=Aman-Sunesh&repo=Modeling-Information-Blackouts-in-MNAR-Time-Series&theme=dark&v=1" alt="Modeling Information Blackouts in MNAR Time Series" />
-  </a>
-  <a href="https://github.com/Aman-Sunesh/CycleGAN-for-Cultural-Style-Transfer-Translating-Bandhani-Textile-Motifs-to-Contemporary-Style">
-    <img src="https://github-readme-stats-ten-delta-40.vercel.app/api/pin/?username=Aman-Sunesh&repo=CycleGAN-for-Cultural-Style-Transfer-Translating-Bandhani-Textile-Motifs-to-Contemporary-Style&theme=dark&v=1" alt="CycleGAN for Cultural Style Transfer" />
-  </a>
-  <a href="https://github.com/Aman-Sunesh/Airline-Ticket-Reservation-System-Using-MySQL-and-Flask">
-    <img src="https://github-readme-stats-ten-delta-40.vercel.app/api/pin/?username=Aman-Sunesh&repo=Airline-Ticket-Reservation-System-Using-MySQL-and-Flask&theme=dark&v=1" alt="Airline Ticket Reservation System Using MySQL and Flask" />
-  </a>
-  <a href="https://github.com/Aman-Sunesh/EV-PK-Simulator">
-    <img src="https://github-readme-stats-ten-delta-40.vercel.app/api/pin/?username=Aman-Sunesh&repo=EV-PK-Simulator&theme=dark&v=1" alt="EV PK Simulator" />
-  </a>
-  <a href="https://github.com/Aman-Sunesh/QuPyT-GUI-for-Quantum-Sensing-Experiments">
-    <img src="https://github-readme-stats-ten-delta-40.vercel.app/api/pin/?username=Aman-Sunesh&repo=QuPyT-GUI-for-Quantum-Sensing-Experiments&theme=dark&v=1" alt="QuPyT GUI for Quantum Sensing Experiments" />
-  </a>
-  <a href="https://github.com/Aman-Sunesh/eCampusExplorer-NYUAD-Virtual-Campus-Tour">
-    <img src="https://github-readme-stats-ten-delta-40.vercel.app/api/pin/?username=Aman-Sunesh&repo=eCampusExplorer-NYUAD-Virtual-Campus-Tour&theme=dark&v=1" alt="eCampusExplorer NYUAD Virtual Campus Tour" />
-  </a>
-</p>
 
-
-### 💻 Most Used Languages
-![Top Langs](https://github-readme-stats-ten-delta-40.vercel.app/api/top-langs/?username=Aman-Sunesh&layout=compact&theme=dark&hide_border=true&langs_count=10&hide=jupyter%20notebook,C&v=1)
 
 ### 📈 Contribution Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aman-Sunesh&theme=github-compact&hide_border=true)
