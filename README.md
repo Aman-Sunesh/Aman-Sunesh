@@ -17,11 +17,17 @@
 
 ## Publications & Preprints
 
+### ModeSwitch-LLM: A Lightweight Phase-Aware Controller for Cross-Mode LLM Inference on a Single GPU
+- **arXiv:** https://arxiv.org/abs/2605.23057  (DOI: https://doi.org/10.48550/arXiv.2605.23057)
+- **Zenodo:** https://doi.org/10.5281/zenodo.20334249
+- **GitHub:** https://github.com/ModeSwitch-LLM/ModeSwitch-LLM
+
 ### Modeling Information Blackouts in Missing Not-At-Random Time Series
 - **arXiv:** https://arxiv.org/abs/2601.01480  (DOI: https://doi.org/10.48550/arXiv.2601.01480)
 - **Zenodo:** https://doi.org/10.5281/zenodo.18146528
 - **engrXiv:** https://doi.org/10.31224/6180
-
+- **GitHub:** https://github.com/BlackoutBayes/Modeling-Information-Blackouts-in-MNAR-Time-Series
+  
 ---
 
 ## Tools I use
