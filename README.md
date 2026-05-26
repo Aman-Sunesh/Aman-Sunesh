@@ -86,9 +86,6 @@
 ### 📈 Contribution Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aman-Sunesh&theme=github-compact&hide_border=true)
 
-### 🏆 GitHub Trophies
-![GitHub Trophy](https://github-profile-trophy-inky.vercel.app/?username=Aman-Sunesh&theme=dark&no-frame=true&column=7&v=1)
-
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Aman-Sunesh&color=0e75b6&style=flat)
 
