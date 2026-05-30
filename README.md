@@ -6,7 +6,7 @@
   <a href="https://aman-sunesh.github.io/">Website</a>
 </p>
 
-**Official GitHub of Aman Sunesh** — junior in Computer Engineering at NYU Abu Dhabi (NYUAD).
+**Official GitHub of Aman Sunesh** — senior in Computer Engineering at NYU Abu Dhabi (NYUAD).
 
 - I’m passionate about data analysis, machine learning, quantum computing, and innovative software solutions.  
 - Currently honing my skills in deep learning, computer vision, and quantum technologies.  
